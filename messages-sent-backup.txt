@@ -1,2 +1,0 @@
-Id: 1, Receiver: admin, Message: hekfenfjdf
-Id: 2, Receiver: admin, Message: hekfenfjdf
